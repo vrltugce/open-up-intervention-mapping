@@ -39,8 +39,7 @@ Example for social distancing in the Kalverstraat:
   - The shopkeepers will adopt our intervention.
 - How will they know that our intervention exists?
   - The municipality should inform them.
-
+```
 Next, move to Step 2, where you state the desired outcomes and performance objectives specifically for adoption, implementation, and maintenance. Select the relevant determinants for each of these stages, and formulate change objectives. Then, construct matrices of change objectives tailored to implementation interventions.
 
 Following the approach used in Step 3 of Intervention Mapping, choose change methods and practical applications to address these objectives. Finally, like in Step 4, design the scope and sequence of the implementation intervention and develop the materials needed to influence program use.
-```
